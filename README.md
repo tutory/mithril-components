@@ -1,2 +1,5 @@
 # mithril-components
-Collection of mithril components we use for tutory.de
+
+We want to create a collection of
+[MithrilJS](http://lhorie.github.io/mithril/)-components we use for
+[tutory.de](http://tutory.de).
